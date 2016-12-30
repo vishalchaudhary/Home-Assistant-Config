@@ -3,11 +3,11 @@ default_view:
   entities:
     - group.family
     - group.living_room
+    - group.master_bedroom
+    - group.master_hallway
     - group.living_room_home
     - group.upstairs
     - group.garage
-    - group.master_bedroom
-    - group.master_hallway
     - group.kitchen
     - group.foyer
     - group.dining_room
