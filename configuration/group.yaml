@@ -1,3 +1,19 @@
+default_view:
+  view: yes
+  entities:
+    - group.family
+    - group.living_room
+    - group.living_room_home
+    - group.upstairs
+    - group.garage
+    - group.master_bedroom
+    - group.master_hallway
+    - group.kitchen
+    - group.foyer
+    - group.dining_room
+    - group.stairway
+    - group.exterior
+    
 christmas:
   switch.christmas_lights
 door_locks:
